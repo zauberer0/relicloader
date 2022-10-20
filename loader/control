@@ -1,0 +1,10 @@
+Package: com.no5up-kanji.relicloader
+Name: relicloader
+Depends: mobilesubstrate, com.no5up-kanji.librelic
+Replaces: com.wyattgahm.shadowx
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome Snapchat tweak!
+Maintainer: Kanji
+Author: Kanji
+Section: Tweaks
